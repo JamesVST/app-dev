@@ -26,11 +26,15 @@ My First Repository
   
   
   
-  ***R. Madhavan": "Farhan Querishi***
+  ***R. Madhavan: Farhan Querishi***
   
 ![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Madhavan_Saala_Khadoos_%28cropped%29.jpg/250px-Madhavan_Saala_Khadoos_%28cropped%29.jpg)
  
  
-***Sharman Joshi": "Raju Rastogi***
+***Sharman Joshi: Raju Rastogi***
 
 ![Pictute](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sharman_Joshi_still3.jpg/220px-Sharman_Joshi_still3.jpg)
+
+***Kareena Kapoor: Pia Sahastrabuddhe***
+
+![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kareena_Kapoor_at_TOIFA16.jpg/328px-Kareena_Kapoor_at_TOIFA16.jpg) 
