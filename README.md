@@ -1,15 +1,16 @@
 # app-dev
-My First Repository 
+ My First Repository 
 
-# My Favorite Movie
-
- 3 Idiots (stylized as 3 idiots) is a 2009 Indian Hindi-language coming-of-age comedy-drama film written and directed by Rajkumar Hirani, co-written by Abhijat Joshi and produced by Vidhu Vinod Chopra. Adapted loosely from Chetan Bhagat's novel Five Point Someone,[5] the film stars Aamir Khan, R. Madhavan and Sharman Joshi in the titular roles, marking their reunion 3 years after Rang De Basanti (2006), while Kareena Kapoor, Boman Irani and Omi Vaidya star in pivotal roles. Narrated through parallel dramas, one in the present and the other ten years in the past, the story follows the friendship of three students at an Indian engineering college and is a satire about the social pressures under an Indian education system.
+# Trailer
+https://user-images.githubusercontent.com/119830538/205651361-21fda331-876a-4126-9dbd-7bed7cb31965.mp4
 
 <p align="Center">
   <img src="https://th-i.thgim.com/public/migration_catalog/article16414705.ece/alternates/FREE_1200/3_IDIOTS">
   <br/>
   <h1 align="Center">THE 3 IDIOT</h1>
 </p>
+3 Idiots (stylized as 3 idiots) is a 2009 Indian Hindi-language coming-of-age comedy-drama film written and directed by Rajkumar Hirani, co-written by Abhijat Joshi and produced by Vidhu Vinod Chopra. Adapted loosely from Chetan Bhagat's novel Five Point Someone,[5] the film stars Aamir Khan, R. Madhavan and Sharman Joshi in the titular roles, marking their reunion 3 years after Rang De Basanti (2006), while Kareena Kapoor, Boman Irani and Omi Vaidya star in pivotal roles. Narrated through parallel dramas, one in the present and the other ten years in the past, the story follows the friendship of three students at an Indian engineering college and is a satire about the social pressures under an Indian education system.
+
 
 ## FILM CREW
 |   | NAMES |
@@ -57,13 +58,30 @@ My First Repository
 
 ![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kareena_Kapoor_at_TOIFA16.jpg/328px-Kareena_Kapoor_at_TOIFA16.jpg) 
 
-***Glad to see you here! Show some love by [starring](https://github.com/JamesVST?tab=repositories) this repo.***
-
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@JamVista&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/PEACE.since.2017JWV)
 
 
+# AWARDS
+
+- [x] Filmfare Awards
+- [x] Global Indian Music Academy Awards
+- [x] International Indian Film Academy Awards
+
+# FULL MOVIE DOWNLOAD
 <p align="Center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg">
   <br/>
   <h1 align="Center">DOWNLOAD THE MOVIE HERE https://www.imdb.com/title/tt1187043/</h1>                                                                                            
 </p>
+
+***Glad to see you here! Show some love by [starring](https://github.com/JamesVST?tab=repositories) this repo.***
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@JamVista&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/PEACE.since.2017JWV)
+
+@JamVista :+1: Hope you enjoy - Please click the star! :shipit:
+
+### REFERENCE
+
+1. LINKS
+   - https://en.wikipedia.org/wiki/List_of_accolades_received_by_3_Idiots
+     - https://www.imdb.com/title/tt1187043/
+
