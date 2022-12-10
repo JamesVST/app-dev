@@ -79,35 +79,42 @@ https://user-images.githubusercontent.com/119830538/205651361-21fda331-876a-4126
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## MAIN CAST
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg/318px-Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg" width="200" height="200"/></a>
+<p><h1 align="left">Amir Khan</h1></p>
+<p>Ranchhodas Shyamaldas Chanchad </p>
+</br></br>
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------
-  
-  **Amir Khan**: *"Ranchhodas Shyamaldas Chanchad*
- 
- ![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg/318px-Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg)
-  
-  -------------------------------------------------------------------------------------------------------------------------------------------------
-  
-  **R. Madhavan**: *Farhan Querishi*
-  
-![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Madhavan_Saala_Khadoos_%28cropped%29.jpg/250px-Madhavan_Saala_Khadoos_%28cropped%29.jpg)
- 
-   -------------------------------------------------------------------------------------------------------------------------------------------------
-   
-**Sharman Joshi**: *Raju Rastogi*
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Pictute](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sharman_Joshi_still3.jpg/220px-Sharman_Joshi_still3.jpg)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Madhavan_Saala_Khadoos_%28cropped%29.jpg/250px-Madhavan_Saala_Khadoos_%28cropped%29.jpg" width="200" height="200"/></a>
+<p><h1 align="left">R. Madhavan</h1></p>
+<p>Farhan Querish  </p>
+</br></br>
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------
-  
-**Kareena Kapoor**: *Pia Sahastrabuddhe*
 
-![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kareena_Kapoor_at_TOIFA16.jpg/328px-Kareena_Kapoor_at_TOIFA16.jpg) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- -------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sharman_Joshi_still3.jpg/220px-Sharman_Joshi_still3.jpg" width="200" height="200"/></a>
+<p><h1 align="left">Sharman Joshi</h1></p>
+<p>Raju Rastogi</p>
+</br></br>
 
-# Download Link
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kareena_Kapoor_at_TOIFA16.jpg/328px-Kareena_Kapoor_at_TOIFA16.jpg" width="200" height="200"/></a>
+<p><h1 align="left">Kareena Kapoor</h1></p>
+<p>Pia Sahastrabuddhe</p>
+</br></br>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+## Download Link
 <p align="Center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg">
   <br/>
