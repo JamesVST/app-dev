@@ -5,6 +5,10 @@
 https://user-images.githubusercontent.com/119830538/205651361-21fda331-876a-4126-9dbd-7bed7cb31965.mp4
 
 <p align="Center">
+<h1 align="Center">3 Idiots trailer 3 Idiots is a movie starring Aamir Khan, Madhavan, and Mona Singh. Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".</h1>
+</p>
+
+<p align="Center">
   <img src="https://th-i.thgim.com/public/migration_catalog/article16414705.ece/alternates/FREE_1200/3_IDIOTS">
   <br/>
   <h1 align="Center">THE 3 IDIOT</h1>
